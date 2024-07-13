@@ -1,8 +1,7 @@
-# React + Vite
+# Projeto React + tailwindcss + daisyui + Node
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto feito para estudos, não esta tão completo e a aplicação esta 50% (ou mais haha) em Inglês por conta da API.
 
-Currently, two official plugins are available:
+aceito dicas de como melhorar.👍
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+visualize o como o projeto ficou: ![image](https://github.com/user-attachments/assets/19c157a6-5e8a-4eeb-b9ba-4fe74465d333)
